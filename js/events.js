@@ -1,6 +1,8 @@
 //define functions here
 
-function 
+function getIt() {
+  
+}
 
 $(document).ready(function(){
 
